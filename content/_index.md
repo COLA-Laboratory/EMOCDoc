@@ -6,10 +6,6 @@ BookToC: true
 
 # EMOC: Evolutionary Multi-objective Optimization in C++
 
-<style>
-
-</style>
-
 <div align="center">
 <img src="./emoc_big.png" width = "300px" height = "100px" align=center />
 

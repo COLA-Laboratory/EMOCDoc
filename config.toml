@@ -1,4 +1,4 @@
-baseURL = 'https://sunxlei.github.io/EMOCDoc/'
+baseURL = 'https://cola-laboratory.github.io/EMOCDoc/'
 languageCode = 'en-us'
 title = 'EMOC'
 theme = "hugo-book"
