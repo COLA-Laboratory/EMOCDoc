@@ -40,32 +40,6 @@ For installing EMOC, please refer to the section [Install]({{< ref "/docs/instal
   Users can save the experiment results of EMOC in the format of Excel or Latex.
 
   
-  
-  
-
-<a href="#/" onclick="toggle_visibility('foo');">Citation</a>
-
-<div id="foo" style="display: none;">@ARTICLE{4358754,<br />
-  	author={Zhang, Qingfu and Li, Hui},<br />
-  	journal={IEEE Transactions on Evolutionary Computation}, <br />
-  	title={MOEA/D: A Multiobjective Evolutionary Algorithm Based on Decomposition}, <br />
-  	year={2007},<br />
-  	volume={11},<br />
-  	number={6},<br />
-  	pages={712-731},<br />
-  	doi={10.1109/TEVC.2007.892759}<br />
-    }
-</div>
-
-<script>
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
-</script>
 
 ## 3rd Party Libraries
 
